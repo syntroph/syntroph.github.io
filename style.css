@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #262A4A;
+    background-color: #A03123;
     padding: 20px 0;
     position: relative;
 }
@@ -137,7 +137,7 @@ section ul li a {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #262A4A;
+    background-color: #A03123;
     color: #fff;
 }
 
@@ -178,7 +178,7 @@ footer {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #262A4A;
+        background-color: #A03123;
         display: none; /* Hide menu by default */
     }
 
