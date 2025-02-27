@@ -59,7 +59,7 @@ nav ul li a {
 /* Hero Section */
 .hero {
     background: url('unr.jpg') no-repeat center center/cover;
-    color: #fff;
+    color: #666666;
     padding: 100px 20px;
 }
 
@@ -130,7 +130,7 @@ section ul li {
 
 section ul li a {
     text-decoration: none;
-    color: #1DAEEF;
+    color: #666666;
     font-weight: bold;
 }
 
